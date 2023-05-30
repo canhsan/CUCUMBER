@@ -68,7 +68,7 @@ public class Runner {
                 eksik adim yoksa Test PASSED yazar
 
                 dryRun = false default degerdir
-                ve Testleri normal olarak calistirmamizi saglar
+                ve Testleri normal olarak calistirmamizi saglar.
 
      */
 }
